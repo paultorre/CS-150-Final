@@ -1,0 +1,13 @@
+Betty     55000
+Fred      53500
+Jack      47300
+Lucy      38200
+Paul      36400
+Leah      34000
+Emily     20000
+reid      3900
+Grant	   22900
+      38200
+Grant      40700
+lll
+      9300
